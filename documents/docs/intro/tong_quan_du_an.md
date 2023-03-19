@@ -6,8 +6,7 @@ sidebar_position: 1
 Sau đây là tổng quan về dự án sắp tới của nhóm.
 
 ## Giới thiệu dự án
-Hiện nay, với sự phát triển không ngừng của nền kinh tế, đòi hỏi mỗi doanh nghiệp phải có những giải pháp chiến lược phù hợp đúng đắn để có thể đứng vững và phát triển. Một giải pháp được đặt ra là ứng dụng tiến bộ của công nghệ thông tin vào công việc quản lý kinh doanh. Những công việc hàng ngày không còn là thao tác thủ công với một đống hỗn độn tài liệu nữa mà được thay bằng những chương trình hỗ trợ cho mọi công việc. Nó sẽ giảm thiểu được những khó khăn trong công việc quản lý kinh doanh như: nhân lực, thời gian, độ chính xác của thông tin… giúp cho các doanh nghiệp có thể đưa ra những quyết định kinh doanh chính xác, đúng thời điểm làm cho việc kinh doanh trở nên hiệu quả hơn.
-Do đó dự án xây dựng và phát triển một chương trình hoàn chỉnh ứng dụng những kỹ thuật và công nghệ mới nhất để giúp cho việc quảng bá sản phẩm của doanh nghiệp được mọi người biết đến rộng rãi trên toàn quốc.
+Xây dựng phát triển giao diện, xử lý cho hệ thống tương tự Talkdesk" là một dự án phần mềm nhằm xây dựng một hệ thống tương tự Talkdesk, một giải pháp liên lạc khách hàng đám mây được sử dụng rộng rãi trên toàn thế giới. Đề tài này sẽ tập trung vào việc xây dựng giao diện người dùng, phát triển phần mềm và xử lý dữ liệu để đảm bảo hệ thống hoạt động mượt mà và hiệu quả.
 
 ****
 ## Mục đích và mục tiêu
@@ -23,8 +22,9 @@ Do đó dự án xây dựng và phát triển một chương trình hoàn chỉ
   - Thân thiện với người sử dụng.
   - Tương thích với các trình duyệt web khác nhau, nội dung được tối ưu, tốc độ tải/nạp trang web nhanh.
   - Hoạt động ổn định và bảo mật.
-* Đáp ứng các chức năng khách hàng yêu cầu (quảng bá sản phẩm và bán hàng trực tiếp qua mạng).
-
+* Xây dựng một hệ thống liên lạc khách hàng đáp ứng được các yêu cầu của người dùng và cung cấp trải nghiệm tốt nhất cho khách hàng. 
+### Mục đích chính
+* Kết quả dự án sẽ cung cấp cho các doanh nghiệp giải pháp liên lạc khách hàng đáng tin cậy, tiện lợi và hiệu quả trong việc quản lý khách hàng và cải thiện chất lượng dịch vụ.	
 ****
 ## Thời gian thực hiện 
 
@@ -40,28 +40,30 @@ Do đó dự án xây dựng và phát triển một chương trình hoàn chỉ
 ****
 ## Phạm vi
 
-* Dự án xây dựng website giới thiệu trực tuyến cho khách hàng thông qua hệ thống Internet.
-* Website được sử dụng cho các 
+* Xây dựng giao diện người dùng: Tập trung phát triển giao diện người dùng cho hệ thống liên lạc khách hàng với các tính năng tương tự Talkdesk, bao gồm bảng điều khiển điện thoại, các thanh công cụ, ghi chú, các biểu mẫu và các trang xử lý dữ liệu khác.
+* Phát triển phần mềm: Xây dựng các thành phần phần mềm để đáp ứng các yêu cầu của khách hàng, bao gồm các tính năng gọi điện thoại, chức năng chat và các khả năng tương tác khác.
+* Xử lý dữ liệu: Tập trung vào việc xử lý dữ liệu để đảm bảo hệ thống hoạt động mượt mà và hiệu quả. Các hoạt động bao gồm thu thập dữ liệu, lưu trữ dữ liệu, phân tích và báo cáo dữ liệu.
+
 
 
 ****
-## Những người liên quan
-* Cửa hàng bán máy tính.
-* Khách hàng mua máy tính.
+## Các bên liên quan 
+* Nhà phát triển: Đội ngũ lập trình viên chịu trách nhiệm xây dựng, thiết kế và triển khai hệ thống.
+* Người dùng: Đối tượng chính sử dụng hệ thống, bao gồm các doanh nghiệp và các tổ chức liên quan đến quản lý khách hàng.
+* Khách hàng: Đối tượng cuối cùng nhận lợi ích từ hệ thống liên lạc khách hàng, bao gồm các cá nhân và tổ chức.
+* Quản lý dự án: Người đứng đầu quản lý dự án để đảm bảo các hoạt động được tiến hành đúng thời hạn và đáp ứng các yêu cầu của khách hàng.
+* Chuyên gia tư vấn: Các chuyên gia nghiên cứu và tư vấn sẽ cung cấp hỗ trợ và giúp đỡ cho nhà phát triển trong việc thiết kế và triển khai hệ thống.
+
 
 ****
 
 ## Tài nguyên
-- Các cửa hàng cung cấp:
-	+ Cung cấp chi phí dự án.
-  + Nghiệp vụ quản lý
-  + Thông tin sản phẩm
-  + Các mẫu văn bản cần thiết.
-  + ...
-- Khách hàng mua máy:
-	+ Cung cấp các nhu cầu, mong muốn khi mua hàng.
-	+  Đưa ra các ý kiến đóng góp về dịch vụ
-	+ ...
+* Phần mềm: Các phần mềm cần thiết để phát triển, triển khai và kiểm thử hệ thống, bao gồm các phần mềm lập trình, phần mềm quản lý dự án và các công cụ kiểm thử phần mềm.
+* Dữ liệu: Dữ liệu liên quan đến khách hàng, lịch sử liên lạc, các cuộc gọi và các thông tin khác cần được thu thập, lưu trữ và quản lý.
+* Công nghệ: Các công nghệ mới nhất và các công nghệ hiện đại để xây dựng hệ thống liên lạc khách hàng, bao gồm các công nghệ điện thoại, chat và các công nghệ tương tác khác.
+* Nhân lực: Những người có kinh nghiệm và chuyên môn trong lĩnh vực phát triển phần mềm, lập trình, thiết kế giao diện, quản lý dự án và xử lý dữ liệu sẽ cần thiết để triển khai hệ thống.
+* Tài chính: Ngân sách phát triển hệ thống cần được xác định rõ ràng để đảm bảo các hoạt động được triển khai và duy trì hiệu quả trong dài hạn.
+
 
 
 
