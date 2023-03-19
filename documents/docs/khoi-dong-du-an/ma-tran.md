@@ -5,9 +5,9 @@ sidebar_position: 4
 
 |                     | Xác định yêu cầu, phân tích | Thiết kế | Cài đặt, kiểm thử đơn vị | Tích hợp, kiểm thử hệ thống | Vận hành và bảo trì |
 | ------------------- | --------------------------- | -------- | ------------------------ | --------------------------- | ------------------- |
-| Nguyễn Hoàng Hà     | P                           | C        | P                        | P                           | P                   |
-| Phùng Thị Hồng Hạnh | P                           | P        | C                        | C                           | P                   |
-| Trần Thị Thắm       | P, A                        | A        | P, A                     | C, A                        | P, A                |
+| Trần Diệp Phương Vy     | P                           | C        | P                        | P                           | P                   |
+| Phạm Nhật Tiến| P                           | P        | C                        | C                           | P                   |
+| Đặng Hữu Giàu       | P, A                        | A        | P, A                     | C, A                        | P, A                |
 
 > Ghi chú:
 >
