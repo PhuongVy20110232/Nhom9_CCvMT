@@ -1,10 +1,5 @@
-import React from 'react'
-import ReactDOM from 'react-dom/client'
-import App from './App'
+import { render } from 'preact'
 import './index.css'
+import { Main } from './pages/routes'
 
-ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
-)
+render(<Main />, document.getElementById('app') as HTMLElement)
