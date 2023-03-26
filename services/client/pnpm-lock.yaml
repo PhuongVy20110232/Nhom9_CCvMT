@@ -2,6 +2,7 @@ lockfileVersion: 5.4
 
 specifiers:
   '@preact/preset-vite': ^2.5.0
+  classnames: ^2.3.2
   preact: ^10.13.0
   preact-router: ^4.1.0
   sass: ^1.60.0
@@ -9,6 +10,7 @@ specifiers:
   vite: ^4.2.0
 
 dependencies:
+  classnames: 2.3.2
   preact: 10.13.1
   preact-router: 4.1.0_preact@10.13.1
   sass: 1.60.0
@@ -630,6 +632,10 @@ packages:
       readdirp: 3.6.0
     optionalDependencies:
       fsevents: 2.3.2
+
+  /classnames/2.3.2:
+    resolution: {integrity: sha512-CSbhY4cFEJRe6/GQzIk5qXZ4Jeg5pcsP7b5peFSDpffpe1cqjASH/n9UTjBwOp6XpMSTwQ8Za2K5V02ueA7Tmw==}
+    dev: false
 
   /color-convert/1.9.3:
     resolution: {integrity: sha512-QfAUtd+vFdAtFQcC8CCyYt1fYWxSqAiK2cSD6zDB8N3cpsEBAvRxp9zOGg6G/SHHJYAT88/az/IuDGALsNVbGg==}
