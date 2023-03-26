@@ -94,13 +94,14 @@ sidebar_position: 3
 
 ## Activity diagram của use case login 
 
-### Use case Quản lý tài khoản
-
-
-
 ### Use case Thêm tài khoản 
 
 
+
 ### Use case Sửa tài khoản 
+![Screenshot](../resources/account-management/ad_edit_account.png)
+
 
 ### Use case Xoá tài khoản 
+![Screenshot](../resources/account-management/ad_delete_account.png)
+
