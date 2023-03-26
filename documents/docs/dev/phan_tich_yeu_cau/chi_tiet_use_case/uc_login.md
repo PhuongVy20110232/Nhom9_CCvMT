@@ -19,8 +19,10 @@ sidebar_position: 1
 | Alternative Flows:    | 1. Nếu người dùng không nhập thông tin vào các ô chữ và nhấn nút “Ok” thì hệ thống sẽ đưa ra thông báo lỗi và đòi hỏi phải nhập thông tin vào các ô chữ đó. 2. Nếu người dùng nhập sai tên đăng nhập hoặc mật khẩu đăng nhập, khi nhấn nút “Login”, hệ thống sẽ đưa ra thông báo lỗi và yêu cầu đăng nhập lại.                                             |
 | Exceptions:           | Nếu tài khoản đăng nhập hiện đang được sử dụng, khi đăng nhập hệ thống sẽ đưa ra thông báo tài khoản hiện đang sử dụng.                                                                                                                                                                                                                                    |
 | Special Requirements: |                                                                                                                                                                                                                                                                                                                                                            |
-
+****
 ## Class diagram của use case login 
 ![Screenshot](../resources/login/cd_login.png)
+
+****
 ## Activity diagram của use case login 
 ![Screenshot](../resources/login/ad_login.png)
