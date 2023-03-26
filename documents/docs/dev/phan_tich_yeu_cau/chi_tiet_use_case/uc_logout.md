@@ -20,8 +20,9 @@ sidebar_position: 3
 | Exceptions:           | Nếu tài khoản đăng nhập hiện đang được sử dụng, khi đăng nhập hệ thống sẽ đưa ra thông báo tài khoản hiện đang sử dụng.                                                                                                                                                                       |
 | Special Requirements: |                                                                                                                                                                                                                                                                                               |
 
-
+****
 ## Class diagram của use case logout 
 ![Screenshot](../resources/logout/cd_logout.png)
+****
 ## Activity diagram của use case logout 
 ![Screenshot](../resources/logout/ad_logout.png)
